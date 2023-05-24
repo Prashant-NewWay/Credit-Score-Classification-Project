@@ -4,9 +4,6 @@ About the dataset
 
 Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.
 
-License
-CC0: Public Domain
-
 The credit score of a person helps financial companies determine if you can repay the loan or credit you are applying for.
 
 Here is a dataset based on the credit score classification from Kaggle. Below are all the features in the dataset:
@@ -40,6 +37,8 @@ Payment_Behaviour: The payment behaviour of the person
 Monthly_Balance: The monthly balance left in the account of the person
 Credit_Score: The credit score of the person
 
-The Credit_Score column is the target variable in this problem. You are required to find relationships based on how banks classify credit scores and train a model to classify the credit score of a person.
+The Credit_Score column is the target variable. We are required to find relationships based on how banks classify credit scores and train a model to classify the credit score of a person.
 
+License
+CC0: Public Domain
 
